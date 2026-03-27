@@ -8,7 +8,8 @@
  alt="Google Cloud Native">
 </a>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Vertex%20AI-Powered-orange"alt="Vertex AI Powered">
+<img src="https://img.shields.io/badge/Vertex%20AI-Powered-orange"
+ alt="Vertex AI Powered">
 </a>
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/BigQuery-Integration-green" 
@@ -127,7 +128,7 @@ In the "Choose an agent type" section, locate the **Agents via Marketplace** opt
 ![Select Agents via Marketplace](agents_via_marketplace.png)
 
 **Step 5: Search and Select**
-Search for **[Your Agent's Exact Listing Name]** in the Marketplace search bar. Click on our agent in the results, then click **Next**.
+Search for **Demand Sensing Agent** in the Marketplace search bar. Click on our agent in the results, then click **Next**.
 > `[Insert Screenshot: The Marketplace search interface within the console, showing the Demand Sensing Agent selected]`
 
 **Step 6: Authenticate and Finish**
