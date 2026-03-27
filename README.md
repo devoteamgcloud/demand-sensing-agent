@@ -1,11 +1,41 @@
-# demand-sensing-agent
-Documentation for Devoteam's Demand Sensing Agent
+# Demand Sensing Agent
 
+\<h2 align="center"\>\<i\>Documentation for Devoteam's Demand Sensing Agent\</i\>\</h2\><br>
 
+\<p align="center"\>
+\<a href="\#" target="\_blank"\>
+\<img src="[https://img.shields.io/badge/Google%20Cloud-Native-blue](https://www.google.com/search?q=https://img.shields.io/badge/Google%2520Cloud-Native-blue)" alt="Google Cloud Native"\>
+\</a\>
+\<a href="\#" target="\_blank"\>
+\<img src="[https://img.shields.io/badge/Vertex%20AI-Powered-orange](https://www.google.com/search?q=https://img.shields.io/badge/Vertex%2520AI-Powered-orange)" alt="Vertex AI Powered"\>
+\</a\>
+\<a href="\#" target="\_blank"\>
+\<img src="[https://img.shields.io/badge/BigQuery-Integration-green](https://www.google.com/search?q=https://img.shields.io/badge/BigQuery-Integration-green)" alt="BigQuery Integration"\>
+\</a\>
+\<a href="\#" target="\_blank"\>
+\<img src="[https://img.shields.io/badge/Cortex-Enabled-yellow](https://www.google.com/search?q=https://img.shields.io/badge/Cortex-Enabled-yellow)" alt="Cortex Enabled"\>
+\</a\>
+\<a href="\#" target="\_blank"\>
+\<img src="[https://img.shields.io/badge/Gemini%20Enterprise-Ready-purple](https://www.google.com/search?q=https://img.shields.io/badge/Gemini%2520Enterprise-Ready-purple)" alt="Gemini Enterprise Ready"\>
+\</a\>
+\<a href="\#" target="\_blank"\>
+\<img src="[https://img.shields.io/badge/MiroFish-Simulation-red](https://www.google.com/search?q=https://img.shields.io/badge/MiroFish-Simulation-red)" alt="MiroFish Simulation"\>
+\</a\>
+\</p\>
 
+<!-- TOC -->
+  * [Project Overview](https://www.google.com/search?q=%23project-overview)
+  * [Problem Statement](https://www.google.com/search?q=%23problem-statement)
+  * [Current Scope](https://www.google.com/search?q=%23current-scope)
+      * [Extended Capabilities via Gemini Enterprise](https://www.google.com/search?q=%23extended-capabilities-via-gemini-enterprise)
+      * [Long-Term Vision and Objectives](https://www.google.com/search?q=%23long-term-vision-and-objectives)
+  * [System Architecture and Implementation](https://www.google.com/search?q=%23system-architecture-and-implementation)
+  * [How to Add the Demand Sensing Agent to Gemini Enterprise](https://www.google.com/search?q=%23how-to-add-the-demand-sensing-agent-to-gemini-enterprise)
+      * [Prerequisites](https://www.google.com/search?q=%23prerequisites)
+      * [Part 1: Add the Agent via the Google Cloud Console (For Admins)](https://www.google.com/search?q=%23part-1-add-the-agent-via-the-google-cloud-console-for-admins)
+      * [Part 2: Share the Agent with Your Organization (For Admins)](https://www.google.com/search?q=%23part-2-share-the-agent-with-your-organization-for-admins)
 
-
-
+<!-- TOC -->
 
 ## Project Overview
 
