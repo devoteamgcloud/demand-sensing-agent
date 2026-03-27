@@ -66,11 +66,10 @@ This project is built as a production-ready, highly observable AI system. The ar
 
 ## How to Add the Demand Sensing Agent to Gemini Enterprise
 
-This guide walks administrators through the process of adding our Demand Sensing Agent directly from the Google Cloud Marketplace to your organization's Gemini Enterprise environment, and explains how users can access it.
+This guide walks administrators through the process of adding our Demand Sensing Agent directly from the Google Cloud Marketplace to your organization's Gemini Enterprise environment.
 
 ### Prerequisites
 * You must have the **Discovery Engine Admin** role in your Google Cloud project.
-* The **Discovery Engine API** must be enabled for your project.
 * You must have an existing Gemini Enterprise app set up in your Google Cloud console.
 
 ---
@@ -81,19 +80,17 @@ Google Cloud provides a streamlined flow to add Marketplace agents directly into
 
 **Step 1: Navigate to Gemini Enterprise**
 Log in to the Google Cloud console and go to the **Gemini Enterprise** page. 
-> `[Insert Screenshot: The Google Cloud console search bar or navigation menu with "Gemini Enterprise" highlighted]`
 
 **Step 2: Select Your App**
 Click the name of the specific Gemini Enterprise app to which you want to add the Demand Sensing Agent.
-> `[Insert Screenshot: The Gemini Enterprise dashboard showing the list of available apps, with one selected]`
 
 **Step 3: Add a Marketplace Agent**
 In the left-hand navigation menu, click **Agents**. Then, click the **+ Add Agents** button at the top of the screen.
-> `[Insert Screenshot: The "Agents" page in the console with an arrow pointing to the "+ Add Agents" button]`
+![Add Agent](add_agent_doc.png)
 
 **Step 4: Choose the Agent Type**
 In the "Choose an agent type" section, locate the **Agents via Marketplace** option and click **Add**.
-> `[Insert Screenshot: The agent selection screen highlighting the "Agents via Marketplace" tile]`
+![Select Agents via Marketplace](agents_via_marketplace.png)
 
 **Step 5: Search and Select**
 Search for **[Your Agent's Exact Listing Name]** in the Marketplace search bar. Click on our agent in the results, then click **Next**.
