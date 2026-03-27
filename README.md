@@ -1,27 +1,31 @@
 # Demand Sensing Agent
 
-\<h2 align="center"\>\<i\>Documentation for Devoteam's Demand Sensing Agent\</i\>\</h2\><br>
+<h2 align="center"><i>Documentation for Devoteam's Demand Sensing Agent</i></h2><br>
 
-\<p align="center"\>
-\<a href="\#" target="\_blank"\>
-\<img src="[https://img.shields.io/badge/Google%20Cloud-Native-blue](https://www.google.com/search?q=https://img.shields.io/badge/Google%2520Cloud-Native-blue)" alt="Google Cloud Native"\>
-\</a\>
-\<a href="\#" target="\_blank"\>
-\<img src="[https://img.shields.io/badge/Vertex%20AI-Powered-orange](https://www.google.com/search?q=https://img.shields.io/badge/Vertex%2520AI-Powered-orange)" alt="Vertex AI Powered"\>
-\</a\>
-\<a href="\#" target="\_blank"\>
-\<img src="[https://img.shields.io/badge/BigQuery-Integration-green](https://www.google.com/search?q=https://img.shields.io/badge/BigQuery-Integration-green)" alt="BigQuery Integration"\>
-\</a\>
-\<a href="\#" target="\_blank"\>
-\<img src="[https://img.shields.io/badge/Cortex-Enabled-yellow](https://www.google.com/search?q=https://img.shields.io/badge/Cortex-Enabled-yellow)" alt="Cortex Enabled"\>
-\</a\>
-\<a href="\#" target="\_blank"\>
-\<img src="[https://img.shields.io/badge/Gemini%20Enterprise-Ready-purple](https://www.google.com/search?q=https://img.shields.io/badge/Gemini%2520Enterprise-Ready-purple)" alt="Gemini Enterprise Ready"\>
-\</a\>
-\<a href="\#" target="\_blank"\>
-\<img src="[https://img.shields.io/badge/MiroFish-Simulation-red](https://www.google.com/search?q=https://img.shields.io/badge/MiroFish-Simulation-red)" alt="MiroFish Simulation"\>
-\</a\>
-\</p\>
+<p align="center">
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Google%20Cloud-Native-blue" 
+ alt="Google Cloud Native">
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Vertex%20AI-Powered-orange"alt="Vertex AI Powered">
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/BigQuery-Integration-green" 
+ alt="BigQuery Integration">
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Cortex-Enabled-yellow" 
+ alt="Cortex Enabled">
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Gemini%20Enterprise-Ready-purple">
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/MiroFish-Simulation-red" 
+ alt="MiroFish Simulation">
+</a>
+</p>
 
 <!-- TOC -->
   * [Project Overview](https://www.google.com/search?q=%23project-overview)
