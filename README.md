@@ -142,11 +142,10 @@ By default, newly added agents need to be shared before your team can see them.
 
 **Step 1: Open User Permissions**
 Still on the **Agents** page in the console, click the Display name of the Demand Sensing Agent you just added. Then, click the **User permissions** tab.
-> `[Insert Screenshot: The agent's detail view highlighting the "User permissions" tab]`
 
 **Step 2: Add Users**
 Click **Add user**. In the dialog box, you can grant access to specific individuals (User), specific teams (Group/Workforce identity pool), or your entire organization (All users). 
-> `[Insert Screenshot: The "Add user permissions roles to agent" dialog box showing the member type selection]`
+![Add User Permissions](add_user_permissions.png)
 
 **Step 3: Save Permissions**
 Assign the appropriate role and click **Save**. The agent is now authorized and live for your selected users!
